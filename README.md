@@ -6,4 +6,3 @@
 <p align="center" >
 <a href="https://guard.lol/discord"><img height="32" width="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" /></a>
 
-<p align="center">"guardiscool"</p>
