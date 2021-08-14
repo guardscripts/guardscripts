@@ -6,5 +6,6 @@
 <h2 align="center">Links</h2>
 
 <p align="center" >
+ <a href="https://discord.com/users/473251000619237376"><img src="https://discord.c99.nl/widget/theme-1/473251000619237376.png" /></a>
 <a href="https://guard.lol/discord"><img height="32" width="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" /></a>
 
